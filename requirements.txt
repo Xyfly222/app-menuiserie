@@ -1,0 +1,5 @@
+streamlit==1.*
+pdfplumber==0.*
+pandas==2.*
+pytesseract==0.*
+pillow==10.*
